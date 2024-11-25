@@ -1,4 +1,4 @@
-Circular Food Queue Management System
+## Circular Food Queue Management System
 
 - **Hey!** CurrentlyCrafting created this Circular Queue Food Managment System.
   This project is a simulation of a food storage management system that uses circular queues to handle food items efficiently.
@@ -6,7 +6,7 @@ Circular Food Queue Management System
 
 ---
 
-Feature
+## Feature
 
 - **Circular Queue Implementation**: Efficient storage and retrieval of food items with FIFO (First-In-First-Out) behavior.
 - **Multi-Queue Storage**: Manage multiple circular queues for better organization.
