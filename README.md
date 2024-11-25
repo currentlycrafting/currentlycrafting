@@ -1,36 +1,28 @@
-## Circular Food Queue Management System
+# Hi there! 👋
 
-- **Hey!** CurrentlyCrafting created this Circular Queue Food Managment System.
-  This project is a simulation of a food storage management system that uses circular queues to handle food items efficiently.
-  Designed for managing food expiration, storage across multiple queues with a user-friendly interface.
+Welcome to my GitHub profile! Here's a bit about me:
 
----
+## 📖 About Me  
+I’m a curious mind with a love for **philosophy** and **theology**, always eager to explore the deeper questions of life. When I’m not pondering the universe, I dive into the worlds of **fiction**, with favorites like *A Song of Ice and Fire*, and **manga**, especially *One Piece*.
 
-## Feature
+## 💻 What I’m Working On  
+I’m currently focused on becoming a **backend software developer**. My passion lies in crafting efficient, scalable systems and exploring the intricacies of data structures and algorithms.  
 
-- **Circular Queue Implementation**: Efficient storage and retrieval of food items with FIFO (First-In-First-Out) behavior.
-- **Multi-Queue Storage**: Manage multiple circular queues for better organization.
-- **Food Expiration Check**: Automatically identify and remove expired food items.
-- **User Interface**: Interactive UI for managing food items and queues.
-- **Simulation Mode**: Automatically simulates food item processing and expiration management over time.
-- **Expandable Design**: Modular architecture for easy enhancements.
+### My Current Project:  
+- **Language**: Java  
+- **Features**:  
+  - Implements **Queues** and **Stacks** for real-time **event simulation**.  
+  - Includes a simple yet functional **JavaFX UI** to visualize the simulation.  
 
----
+## 🌱 Goals and Interests  
+- **Backend Development**: Expanding my expertise in frameworks, APIs, and databases.  
+- **Data Structures & Algorithms**: Building strong foundations to solve complex problems.  
+- **Open Source**: Exploring collaborative projects to contribute and learn.  
 
-## Project Structure
-
-- **CircularFoodQueue.java**: Core implementation of the circular queue for managing food items.
-- **FoodStorage.java**: Handles multiple queues, allowing efficient food item distribution and transfer between queues.
-- **UserInterface.java**: Interactive UI for adding, removing, and viewing food items and queues.
-- **Simulation.java**: Simulates food queue operations over time, including random addition and removal of food items.
-- **FoodItem.java**: Represents a food item with properties like name, storage date, and expiration date.
+## 🚀 Let’s Connect!  
+If you share an interest in backend development, philosophy, or awesome stories, let’s chat or collaborate. Together, we can build cool things and make an impact!  
 
 ---
 
-## Key Concepts
+⭐️ Feel free to explore my projects and drop a star if something catches your eye. Thanks for stopping by! 😊
 
-- **Circular Queue**: Maintains a continuous array-based queue, cycling through indices to minimize wasted space.
-- **Modular Design**: Separate classes for distinct responsibilities (e.g., storage, UI, and simulation).
-- **Real-Time Expiration Management**: Ensures expired food items are promptly identified and removed.
-
----
